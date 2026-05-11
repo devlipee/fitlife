@@ -204,3 +204,10 @@ main {
     text-align: center;
 }
 
+@media (max-width: 480px){
+    nav{
+        flex-direction: column;
+        justify-content: center;
+    }
+}
+
